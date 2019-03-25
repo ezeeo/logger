@@ -1,0 +1,7 @@
+G:\c#\message_monitor\message_monitor\bin\Debug\message_monitor.exe.config
+G:\c#\message_monitor\message_monitor\bin\Debug\message_monitor.exe
+G:\c#\message_monitor\message_monitor\bin\Debug\message_monitor.pdb
+G:\c#\message_monitor\message_monitor\obj\Debug\message_monitor.csprojAssemblyReference.cache
+G:\c#\message_monitor\message_monitor\obj\Debug\message_monitor.csproj.CoreCompileInputs.cache
+G:\c#\message_monitor\message_monitor\obj\Debug\message_monitor.exe
+G:\c#\message_monitor\message_monitor\obj\Debug\message_monitor.pdb
